@@ -6,7 +6,7 @@ This is a MarkDown-based Slide that I use. It's offline and has minimum function
 
 ## Install
 
-1. Download zip and unzip it.
+1. Download [zip](https://github.com/ChenLi2049/Slidy/archive/refs/heads/main.zip) and unzip it.
 2. Open the `Slide.html` with broswer, you should see a slide.
 
 To change the content in the slide:
