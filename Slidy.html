@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="./layouts/katex/katex.min.css">
+    <script defer src="./layouts/katex/katex.min.js"></script>
+    <script defer src="./layouts/katex/contrib/auto-render.min.js" onload="renderMathInElement(document.body);"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            renderMathInElement(document.body, {
+                delimiters: [
+                    {left: "$$", right: "$$", display: true},
+                    {left: "$", right: "$", display: false}
+                ]
+            });
+        });
+    </script>
+  </head>
+  <body>
+    <textarea id="source">
+
+class: center, middle
+
+<!-- copy and paste down below -->
+
+# title1
+
+---
+
+## title1.1
+
+To show pictures:
+
+![testpic](.\pics\testpic.png)<!-- notice the relative path here -->
+
+KaTeX equations are supported:
+
+eg. equations at the center of next line: $$ \begin{cases} x+y+z=10 \\\ x+2y+3z=20 \\\ x+4y+5z=30 \end{cases} \tag{1}$$
+
+or inline equations: $ F = m \ddot{x} $
+
+<!-- copy and paste till here -->
+
+    </textarea>
+    <script src="./layouts/remark-latest.min.js"></script>
+    <script> var slideshow = remark.create();</script>
+  </body>
+</html>
