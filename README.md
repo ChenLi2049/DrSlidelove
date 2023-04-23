@@ -11,7 +11,7 @@ This is a MarkDown-based Slide that I use. It's offline and has minimum function
 
 To change the content in the slide:
 
-1. Open the `Slide.html` with notebook.
+1. Open the `Slide.html` with notepad or editor.
 2. Change the content in the `Slide.html` between `<!-- copy and paste down below -->` and `<!-- copy and paste till here -->`.
 3. Open the `Slide.html` with browser.
 
