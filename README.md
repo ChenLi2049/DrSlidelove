@@ -17,6 +17,6 @@ To change the content in the slide:
 
 ## About
 
-This Slide is based on [remark](https://github.com/gnab/remark). I learned a lot about HTML format there.
+This Slide is based on [`remark`](https://github.com/gnab/remark). I learned a lot about HTML format there.
 
-KaTeX version is [0.16.6](https://github.com/KaTeX/KaTeX/releases/tag/v0.16.6)
+`KaTeX` version is [0.16.6](https://github.com/KaTeX/KaTeX/releases/tag/v0.16.6)
