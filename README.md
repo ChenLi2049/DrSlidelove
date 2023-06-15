@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a MarkDown-based Slide that I use. It's offline and has minimum functions.
+This is a Markdown-based Slide that I use. It's offline and has minimum functions.
 
 ## Install
 
