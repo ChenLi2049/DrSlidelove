@@ -1,4 +1,4 @@
-# Slidy
+# Dr. Slidelove
 
 ## Introduction
 
@@ -6,14 +6,14 @@ This is a Markdown-based Slide that I use. It's offline and has minimum function
 
 ## Install
 
-1. Download [.zip](https://github.com/ChenLi2049/Slidy/releases) and unzip it.
-2. Open the Slide.html with browser, you should see a slide.
+1. Download [.zip](https://github.com/ChenLi2049/Dr.Slidelove/releases) and unzip it.
+2. Open the Dr.Slidelove.html with browser, you should see a slide.
 
 To change the content in the slide:
 
-1. Open the Slide.html with notepad or editor.
-2. Change the content in the Slide.html between `<!-- copy and paste down below -->` and `<!-- copy and paste till here -->`.
-3. Open the Slide.html with browser.
+1. Open the Dr.Slidelove.html with notepad or editor.
+2. Change the content in the Dr.Slidelove.html between `<!-- copy and paste down below -->` and `<!-- copy and paste till here -->`.
+3. Open the Dr.Slidelove.html with browser.
 
 ## About
 
