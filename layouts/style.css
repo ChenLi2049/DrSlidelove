@@ -1,0 +1,40 @@
+/* table */
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    display: table;
+    width: 100%;
+    table-layout: auto;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+table td{
+    border: 1px solid black;
+}
+
+table th{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+table img{
+    max-width: 100%;
+    height: auto;
+}
+
+/* picture */
+
+img {
+    img-layout: auto;
+    max-width: 50%;
+    max-height: 50%;
+}
+
+/* video */
+
+video {
+    display: block;
+    margin: 0 auto;
+}
