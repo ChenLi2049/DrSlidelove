@@ -10,13 +10,15 @@ table {
     overflow-x: hidden;
 }
 
-table td{
-    border: 1px solid black;
-}
-
 table th{
     border-left: 1px solid black;
     border-right: 1px solid black;
+    padding: 3px 10px 3px 10px;
+}
+
+table td{
+    border: 1px solid black;
+    padding: 3px 10px 3px 10px;
 }
 
 table img{
